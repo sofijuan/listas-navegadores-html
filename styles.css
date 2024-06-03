@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  color: rgb(200, 196, 196);
+  font-family: sans-serif;
+}
+
+.lista {
+  background-color: rgb(60, 58, 58);
+  display: inline-block;
+  padding: 5px;
+}
+
+li {
+  padding: 2.5px;
+}
